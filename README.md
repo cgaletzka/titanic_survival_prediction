@@ -11,5 +11,5 @@ Predict passenger survival based on passenger information (e.g., age, passenger 
 - Feature selection via regularization (L1 penalty)
 
 ## Results
-- *Cross-validated accuracy*: ~0.82*
+- *Cross-validated accuracy: ~0.82*
 - *Kaggle leaderboard accuracy: ~0.78*
